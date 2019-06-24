@@ -11,4 +11,7 @@ public class GitTest {
         System.out.println("hello git pro");
         System.out.println("hello git pro");
     }
+    public void Test(){
+        System.out.println("wwwwwwwwwww");
+    }
 }
