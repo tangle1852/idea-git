@@ -13,5 +13,7 @@ public class GitTest {
     }
     public void Test(){
         System.out.println("wwwwwwwwwww");
+        int i = 10;
+        System.out.println(i);
     }
 }
